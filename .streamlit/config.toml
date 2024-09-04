@@ -1,0 +1,9 @@
+[global]
+showWarningOnDirectExecution = false
+disableWidgetStateDuplicationWarning = true
+[server]
+enableXsrfProtection = false
+enableCORS = false
+[theme]
+base = 'light'
+primaryColor = '#437DCE'
